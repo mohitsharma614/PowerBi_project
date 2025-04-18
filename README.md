@@ -1,2 +1,3 @@
 # PowerBi_project
-Created an interactive Power BI dashboard using the Global Superstore dataset to analyze sales, profit, and regional performance. Focused on visualizing key metrics to help identify trends, optimize business decisions, and improve overall profitability.
+#Output by using screenshort
+![Screenshot 2025-04-18 124252](https://github.com/user-attachments/assets/be25d092-18b7-4f3e-b69c-b016d058eec0)
